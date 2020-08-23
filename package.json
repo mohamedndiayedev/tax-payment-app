@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://covid-19-tracking-exposure-app.herokuapp.com.git"
+    "url": "git+https://tax-payment-app.herokuapp.com.git"
   },
   "author": "Tyler M Yasaka",
   "license": "MIT",
   "bugs": {
     "url": ""
   },
-  "homepage": "https://covid-19-tracking-exposure-app.herokuapp.com#readme",
+  "homepage": "https://tax-payment-app.herokuapp.com#readme",
   "dependencies": {
     "@sendgrid/mail": "^7.2.0",
     "body-parser": "^1.19.0",
